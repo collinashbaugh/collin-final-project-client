@@ -1,0 +1,20 @@
+{
+  "name": "collin-final-project-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "material-auto-rotating-carousel": "^1.6.0",
+    "material-ui": "^0.19.4",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-responsive-carousel": "^3.1.28",
+    "react-scripts": "1.0.17",
+    "react-swipeable-views": "^0.12.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
